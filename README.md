@@ -3,7 +3,7 @@
 An intelligent **voice-enabled restaurant booking system** built using **MERN + Web Speech API + Weather API**.  
 This project was developed as part of the **Vaiu AI Software Developer Internship Assignment**.
 
-The agent collects booking details through **natural voice conversation**, fetches **real-time weather**, and stores confirmed bookings in a **MongoDB** database.  
+The agent collects booking details through **natural voice conversation**, fetches **real-time weather**, and stores confirmed bookings in a **MongoDB** database. 
 A modern dashboard allows viewing all bookings in one place.
 
 ---
